@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3429-special-array-i](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
