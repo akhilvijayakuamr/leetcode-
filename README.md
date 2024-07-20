@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Matrix
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
