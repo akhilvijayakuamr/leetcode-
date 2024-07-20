@@ -1,5 +1,7 @@
 class Solution:
     def numberOfChild(self, n: int, k: int) -> int:
+        if k<n:
+            return k
         flag = True
         index = 1
         for i in range(k):
