@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3462-vowels-game-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
