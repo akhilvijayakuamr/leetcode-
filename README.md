@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1196-filling-bookcase-shelves) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
