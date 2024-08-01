@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3462-vowels-game-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1196-filling-bookcase-shelves) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3429-special-array-i) |
