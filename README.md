@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1196-filling-bookcase-shelves](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1196-filling-bookcase-shelves) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
 ## Brainteaser
 |  |
