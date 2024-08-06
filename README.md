@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1341-split-a-string-in-balanced-strings) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
