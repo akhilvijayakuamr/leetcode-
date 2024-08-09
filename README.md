@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0874-backspace-string-compare](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0874-backspace-string-compare](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0874-backspace-string-compare) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Sorting
