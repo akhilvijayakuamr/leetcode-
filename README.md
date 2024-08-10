@@ -101,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0577-employee-bonus) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
