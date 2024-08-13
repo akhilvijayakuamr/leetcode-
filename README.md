@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1196-filling-bookcase-shelves](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1196-filling-bookcase-shelves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
