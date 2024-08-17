@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1196-filling-bookcase-shelves](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1196-filling-bookcase-shelves) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2727-number-of-senior-citizens) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2571-find-the-pivot-integer](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
