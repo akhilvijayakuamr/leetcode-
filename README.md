@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0874-backspace-string-compare](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0874-backspace-string-compare) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2470-removing-stars-from-a-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0485-max-consecutive-ones) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1196-filling-bookcase-shelves](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1196-filling-bookcase-shelves) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0205-isomorphic-strings) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/akhilvijayakuamr/leetcode-/tree/master/3227-find-missing-and-repeated-values) |
