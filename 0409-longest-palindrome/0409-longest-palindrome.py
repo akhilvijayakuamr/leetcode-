@@ -5,6 +5,7 @@ class Solution:
         for key, val in Counter(s).items(): 
             res += val - odd if val % 2 else val
             odd = 1 if val % 2 else odd
+            print(res)
         return res
 
         
