@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0409-longest-palindrome) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1965-sum-of-digits-in-base-k](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1965-sum-of-digits-in-base-k) |
 | [2571-find-the-pivot-integer](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2571-find-the-pivot-integer) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/akhilvijayakuamr/leetcode-/tree/master/2502-sort-the-people) |
@@ -120,9 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
