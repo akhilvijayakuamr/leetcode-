@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0874-backspace-string-compare](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/akhilvijayakuamr/leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akhilvijayakuamr/leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
